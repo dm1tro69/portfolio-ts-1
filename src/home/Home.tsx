@@ -40,10 +40,10 @@ const Home = () => {
                                 WELCOME TO MY WORLD
                             </h1>
                             <h2 className={'home__text pz-10'}>
-                                Hi, I’m Jone Doe
+                                Hi, I’m Dmytro Voronov
                             </h2>
                             <h3 className="home__text sweet pz__10">JS Developer.</h3>
-                            <h4 className="home__text pz__10">based in USA.</h4>
+                            <h4 className="home__text pz__10">based in Greece.</h4>
                         </div>
                     </div>
                 </div>
