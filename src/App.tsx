@@ -6,6 +6,7 @@ import Service from "./service/Service";
 import Project from "./project/Project";
 import Blog from "./blog/Blog";
 import Contact from "./contact/Contact";
+import Footer from "./footer/Footer";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Project/>
         <Blog/>
         <Contact/>
+        <Footer/>
     </div>
   );
 }
